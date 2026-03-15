@@ -9,7 +9,7 @@ by [Laravel Shift - the automated way to upgrade Laravel applications](https://l
 and [Human Shifts](https://laravelshift.com/human-shifts) for upgrading and improving your Laravel, Lumen, PHP, and
 Tailwind projects.
 
-Shifts for *Laravel* include:
+Shifts for **Laravel** include:
 
 - [Laravel PreShift - Your guide to upgrading Laravel](https://laravelshift.com/upgrade-laravel-guide-preshift)
 - [Laravel 5.0 Shift - upgrade Laravel from 4.2 to 5.0](https://laravelshift.com/upgrade-laravel-4.2-to-laravel-5.0)
@@ -40,17 +40,17 @@ Shifts for *Laravel* include:
 - [Fast Laravel - configure your Laravel application for page caching](https://laravelshift.com/fast-laravel-cache-configuration)
 - [Laravel Cloud Pre-Check - check your Laravel Cloud readiness](https://laravelshift.com/laravel-cloud-migration-check)
 
-Shifts for *Lumen* include:
+Shifts for **Lumen** include:
 
 - [Lumen to Laravel - convert a Lumen project to Laravel](https://laravelshift.com/convert-lumen-to-laravel)
 
-Shifts for *Livewire* include:
+Shifts for **Livewire** include:
 
 - [Livewire 3.x Shift - upgrade Livewire from 2.x to 3.x](https://laravelshift.com/upgrade-livewire-2-to-livewire-3)
 - [Livewire 4.x Shift - upgrade Livewire from 3.x to 4.x](https://laravelshift.com/upgrade-livewire-3-to-livewire-4)
 - [MFC Converter - convert to multi-file components](https://laravelshift.com/convert-livewire-components-to-multi-file-components)
 
-Shifts for *PHP* include:
+Shifts for **PHP** include:
 
 - [PSR-2 - adopt the PSR-2 code style](https://laravelshift.com/upgrade-psr2-code-style-standard)
 - [PSR-4 - upgrade from PSR-0 to PSR-4](https://laravelshift.com/upgrade-namespace-psr0-psr4)
@@ -65,7 +65,7 @@ Shifts for *PHP* include:
 - [CI Generator - generate CI workflows](https://laravelshift.com/ci-generator)
 - [Dependency Upgrader - bump all your Composer dependencies at once](https://laravelshift.com/composer-dependency-upgrader)
 
-Shifts for *Tailwind* include:
+Shifts for ***Tailwind** include:
 
 - [Tailwind 1.x Shift - upgrade Tailwind from 0.x to 1.x](https://laravelshift.com/upgrade-tailwind-css-0-to-tailwind-css-1)
 - [Tailwind 2.x Shift - upgrade Tailwind from 1.x to 2.x](https://laravelshift.com/upgrade-tailwind-css-1-to-tailwind-css-2)

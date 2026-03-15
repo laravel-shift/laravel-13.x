@@ -65,7 +65,7 @@ Shifts for **PHP** include:
 - [CI Generator - generate CI workflows](https://laravelshift.com/ci-generator)
 - [Dependency Upgrader - bump all your Composer dependencies at once](https://laravelshift.com/composer-dependency-upgrader)
 
-Shifts for ***Tailwind** include:
+Shifts for **Tailwind** include:
 
 - [Tailwind 1.x Shift - upgrade Tailwind from 0.x to 1.x](https://laravelshift.com/upgrade-tailwind-css-0-to-tailwind-css-1)
 - [Tailwind 2.x Shift - upgrade Tailwind from 1.x to 2.x](https://laravelshift.com/upgrade-tailwind-css-1-to-tailwind-css-2)
